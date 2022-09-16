@@ -1,6 +1,9 @@
-# Hackmol_3.0
+# Escape the Numbers
 This is my First console based Project on C Language for Hackathon.
-Just check it out !! and u will appreciate the beauty of this project from its designing to its idea.
+
+Without Using Graphics.h , I had Created the Visual Effects, Colour and Screen Transitions, Clock , Loading Bar etc. Each n every action or State is defining the Crystal Clear Approach and Clarity of the Language. 
+Hope u will Enjoy it.
+
 # ACCESS USERNAME "DSCNITJ","MRITUNJAY"
 
 I had attached a VIDEO PREVIEW ( 11 MB ) of my program as a tutorial on HOW TO PLAY THE GAME **
