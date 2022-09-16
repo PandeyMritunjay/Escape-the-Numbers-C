@@ -1,5 +1,5 @@
 # Escape the Numbers
-This is my First console based Project on C Language for Hackathon.
+This is my First console based Project on C Language with too Efforts.
 
 Without Using Graphics.h , I had Created the Visual Effects, Colour and Screen Transitions, Clock , Loading Bar etc. Each n every action or State is defining the Crystal Clear Approach and Clarity of the Language. 
 Hope u will Enjoy it.
